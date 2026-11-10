@@ -1,0 +1,29 @@
+fait moi le travail Je travaille sur mon portfolio pour la SAÉ 14 en BUT1 Réseaux et Télécommunications.
+
+Je veux que tu me génères à nouveau tous les codes de mon site Internet, avec le nouveau design CSS bleu nuit, violet et bleu clair que nous avons choisi.
+
+Je veux exactement les 8 fichiers HTML suivants :
+1. index.html (Accueil en français)
+2. parcours.html (Parcours et compétences en français)
+3. projets.html (Projets et centres d’intérêt en français)
+4. contact.html (Contact en français)
+5. index-en.html (Home page in English)
+6. parcours-en.html (Education and skills in English)
+7. projets-en.html (Projects and interests in English)
+8. contact-en.html (Contact page in English)
+Je veux également le fichier :
+9. style.css (nouveau design bleu nuit, violet et bleu clair).
+
+Consignes :
+- Donne-moi le code complet de chaque fichier, sans rien oublier.
+- Présente chaque fichier séparément dans un bloc de code.
+- Les 8 pages doivent être reliées entre elles avec un menu de navigation.
+- Chaque page doit permettre de passer du français à l'anglais et inversement.
+- Les 8 pages doivent utiliser le même fichier style.css.
+- Le site doit être responsive et fonctionner sur ordinateur et téléphone.
+- Utilise HTML5 et CSS3 uniquement, sans JavaScript.
+- Respecte les consignes de la SAÉ 14 : structure HTML sémantique, images avec textes alternatifs, liens fonctionnels, Flexbox ou Grid, pied de page commun et bonne organisation des fichiers.
+- Mets des exemples de contenu que je pourrai personnaliser avec mes propres informations.
+- Explique-moi où placer les images et le CV PDF.
+- Vérifie que tous les liens entre les pages sont corrects.
+Je veux un site complet, propre, moderne et facile à modifier.
