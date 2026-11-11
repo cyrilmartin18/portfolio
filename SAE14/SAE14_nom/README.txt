@@ -88,9 +88,7 @@ Visual Studio Code :
 Éditeur de code utilisé pour écrire, modifier et organiser les fichiers HTML et CSS.
 
 Live Server :
-Extension de Visual Studio Code permettant
-de visualiser le site dans un navigateur
-et de voir les modifications pendant le développement.
+Extension de Visual Studio Code permettant de visualiser le site dans un navigateuret de voir les modifications pendant le développement.
 
 Navigateurs web :
 Google Chrome et Microsoft Edge sont utilisés pour consulter et tester le portfolio.
@@ -134,15 +132,11 @@ Les liens externes permettent de consulter des ressources complémentaires, nota
 
 Le site a été conçu pour s'adapter à différentes tailles d'écran.
 
-L'utilisation du CSS permet d'améliorer l'affichage
-sur ordinateur, tablette et téléphone.
+L'utilisation du CSS permet d'améliorer l'affichage sur ordinateur, tablette et téléphone.
 
-Des règles CSS spécifiques permettent d'adapter
-la disposition des éléments lorsque la largeur
-de l'écran est réduite.
+Des règles CSS spécifiques permettent d'adapter a disposition des éléments lorsque la largeur e l'écran est réduite.
 
-Les images sont également adaptées à la taille
-de leur conteneur afin de conserver un affichage correct.
+Les images sont également adaptées à la taille de leur conteneur afin de conserver un affichage correct.
 
 
 8. TESTS ET VÉRIFICATIONS
@@ -189,26 +183,20 @@ doivent être indiquées lorsque cela est nécessaire.
 
 10. DIFFICULTÉS RENCONTRÉES
 
-Pendant la réalisation du projet, plusieurs difficultés
-ont pu être rencontrées :
+Pendant la réalisation du projet, plusieurs difficultés ont pu être rencontrées :
 
-- Organiser correctement les fichiers et les dossiers.
-- Relier les différentes pages HTML entre elles.
-- Afficher correctement les images.
+- Partager le lien tu Github pour que tous le monde puisse y accéder
+- Faire le CSS
 - Adapter le CSS à la structure des pages HTML.
-- Harmoniser les couleurs et la présentation du site.
 - Adapter le portfolio aux écrans de téléphone.
-- Mettre en place la navigation entre les versions
-  française et anglaise.
+- Faire le fichier README.txt
 
-Ces difficultés ont permis d'améliorer mes connaissances
-en HTML, en CSS et dans la création de sites web.
+Ces difficultés ont permis d'améliorer mes connaissances en HTML, en CSS et dans la création de sites web.
 
 
 11. AMÉLIORATIONS POSSIBLES
 
-Plusieurs améliorations pourraient être apportées
-au portfolio à l'avenir :
+Plusieurs améliorations pourraient être apportées au portfolio a l'avenir:
 
 - Ajouter de nouveaux projets universitaires.
 - Enrichir la présentation de mes compétences techniques.
@@ -230,8 +218,4 @@ Langages utilisés : HTML5 et CSS3
 
 Éditeur de code : Visual Studio Code
 
-Auteur : [Prénom Nom]
-
-==================================================
-                 FIN DU README
-==================================================
+Auteur : Cyril Martin et Joan Molle
